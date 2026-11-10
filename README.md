@@ -46,7 +46,7 @@ Ensure you select the correct PyTorch index for your CUDA version.
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu128
 ```
 ## Links
-- [Hugginface Dataset Repository](https://https://huggingface.co/datasets/CCHT-IIT/Palaeochannels)
+- [Hugginface Dataset Repository](https:huggingface.co/datasets/CCHT-IIT/Palaeochannels)
 
 ## Cite
 
